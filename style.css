@@ -1,8 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 body {
   height: 100vh;
-  max-width: 375px;
+  justify-content: center;
+  align-items: center;
   background-color: hsl(212deg, 45%, 89%);
 }
 
-/*# sourceMappingURL=style.css.map */
+.card {
+  background-color: hsl(0deg, 0%, 100%);
+  font-family: "Outfit", sans-serif;
+}
+.card .card-body {
+  text-align: center;
+}
+.card .card-body .card-title {
+  font-weight: 700;
+  color: hsl(218deg, 44%, 22%);
+}
+.card .card-body .card-text {
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220deg, 15%, 55%);
+}/*# sourceMappingURL=style.css.map */
