@@ -9,3 +9,14 @@ $white: hsl(0, 0%, 100%);
 $gray: hsl(212, 45%, 89%);
 $ash: hsl(220, 15%, 55%);
 $blue: hsl(218, 44%, 22%);
+
+// Layout variables
+$mobile: 375px;
+$desktop: 1440px;
+
+
+// Styles
+body {
+	height: 100vh;
+	background-color: $gray;
+}
