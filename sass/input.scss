@@ -14,9 +14,9 @@ $blue: hsl(218, 44%, 22%);
 $mobile: 375px;
 $desktop: 1440px;
 
-
 // Styles
 body {
 	height: 100vh;
+	max-width: $mobile;
 	background-color: $gray;
 }
