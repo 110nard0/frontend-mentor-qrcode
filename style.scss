@@ -3,7 +3,9 @@
 
 // Font variables
 $font-specimen: 'Outfit', sans-serif;
+$header-font: 1.25rem;
 $paragraph-font: 15px;
+$font-padding: 5px;
 
 // Color variables
 $white: hsl(0, 0%, 100%);
@@ -14,7 +16,6 @@ $blue: hsl(218, 44%, 22%);
 // Layout variables
 $mobile: 375px;
 $desktop: 1440px;
-// $border: 5px;
 
 // Styles
 body {
@@ -25,27 +26,24 @@ body {
 }
 
 .card {
-	// border-radius: $border;
 	background-color: $white;
 	font-family: $font-specimen;
 
-	.img-container {
-
-		.card-img-top {}
-	}
-
 	.card-body {
-		// padding: 1rem;
 		text-align: center;
 
 		.card-title {
 			font-weight: 700;
+			font-size: $header-font;
+			padding: $font-padding;
 			color: $blue;
 		}
 
 		.card-text {
 			font-weight: 400;
 			font-size: $paragraph-font;
+			padding: $font-padding;
+			line-height: 1.25;
 			color: $ash;
 		}
 

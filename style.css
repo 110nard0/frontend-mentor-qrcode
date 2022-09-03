@@ -15,10 +15,14 @@ body {
 }
 .card .card-body .card-title {
   font-weight: 700;
+  font-size: 1.25rem;
+  padding: 5px;
   color: hsl(218deg, 44%, 22%);
 }
 .card .card-body .card-text {
   font-weight: 400;
   font-size: 15px;
+  padding: 5px;
+  line-height: 1.25;
   color: hsl(220deg, 15%, 55%);
 }/*# sourceMappingURL=style.css.map */
