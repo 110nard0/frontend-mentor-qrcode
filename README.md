@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned how to work with SaSS. It was my first time using Sass in a project environment so I spent much of the time figuring out the installation process then setting up my ```PATH```. Once I got the hang of it, the rest of my work was easier. One thing I appreciated was the ability to nest CSS selectors like this:
+I learned how to work with Sass. It was my first time using Sass in a project environment so I spent much of the time figuring out the installation process, then setting up my ```PATH```. Once I got the hang of it, the rest of my work was easier. One thing I appreciated was the ability to nest CSS selectors like this:
 
 ```scss
 .card {
@@ -68,11 +68,11 @@ I learned how to work with SaSS. It was my first time using Sass in a project en
 
 ### Continued development
 
-I want to gegt better at measuring width and height of components without access to design files. In my project, I used a plain Bootstrap ```.card``` class and it did not match the specifications in the solution.
+In my project, I used a plain Bootstrap ```.card``` class and it did not match the specifications in the solution. I want to get better at measuring width and height of components without access to design files or CSS frameworks.
 
 ### Useful resources
 
-- [Practical Typography](https://practicaltypography.com/line-spacing.html) - This helped me reproduce typographic elements accurately. I really liked this pattern and will adhere to - most of - it going forward.
+- [Practical Typography](https://practicaltypography.com/line-spacing.html) - This helped me reproduce typographic elements accurately. I really liked this design style guide and will adhere to - most of - it going forward.
 - [Sass Basics](https://sass-lang.com/guide) - This is a guide to working with Sass. I like how it starts from the basics and builds up on existing knowledge.
 - [Install Sass](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Sass Installation Docs.
 - [Intro to Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Bootsrap Introduction Docs.
