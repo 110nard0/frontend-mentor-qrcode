@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -75,7 +76,7 @@ In my project, I used a plain Bootstrap ```.card``` class and it did not match t
 - [Practical Typography](https://practicaltypography.com/line-spacing.html) - This helped me reproduce typographic elements accurately. I really liked this design style guide and will adhere to - most of - it going forward.
 - [Sass Basics](https://sass-lang.com/guide) - This is a guide to working with Sass. I like how it starts from the basics and builds up on existing knowledge.
 - [Install Sass](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Sass Installation Docs.
-- [Intro to Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Bootsrap Introduction Docs.
+- [Intro to Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Bootstrap Introduction Docs.
 
 ## Author
 
@@ -85,4 +86,4 @@ In my project, I used a plain Bootstrap ```.card``` class and it did not match t
 
 ## Acknowledgments
 
-My sincere thanks goes to the Frontend Mentor community for their help, both active and passive, in making become a better web developer.
+My sincere thanks goes to the Frontend Mentor community for their help, both active and passive, in making me become a better web developer.
